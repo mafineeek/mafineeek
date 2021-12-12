@@ -1,4 +1,4 @@
-<a href= "https://discord.com/users/854342480019587133"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/854342480019587133?bg=00000000" /></a>
+<!-- <a href= "https://discord.com/users/854342480019587133"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/854342480019587133?bg=00000000" /></a> -->
   <br>
 ### 🖖 **About me...**
 
