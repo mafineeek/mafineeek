@@ -20,5 +20,10 @@ Hello, I'm **mafineeek**.
 ## 📰 What I have done this week
 <!--START_SECTION:waka-->
 
+```text
+From: 27 July 2022 - To: 03 August 2022
+
+TypeScript   5 mins          █████████████████████████   100.00 %
+```
 
 <!--END_SECTION:waka-->
