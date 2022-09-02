@@ -21,14 +21,14 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 August 2022 - To: 01 September 2022
+From: 26 August 2022 - To: 02 September 2022
 
-Lua          15 hrs 33 mins  ██████████████████▒░░░░░░   73.18 %
-TypeScript   2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-HTML         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-JavaScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-CSS          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-INI          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Lua          13 hrs 7 mins   ████████████████▒░░░░░░░░   65.05 %
+TypeScript   4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+HTML         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+CSS          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
