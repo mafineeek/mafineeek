@@ -21,7 +21,7 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
 Lua          3 hrs 59 mins   ██████████████▒░░░░░░░░░░   56.99 %
 TypeScript   1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
