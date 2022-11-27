@@ -25,13 +25,10 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 19 November 2022 - To: 26 November 2022
 
-TypeScript   52 mins         ██████████████████▒░░░░░░   72.70 %
-JSON         11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-JavaScript   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   52 mins         █████████████████████████   99.59 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
