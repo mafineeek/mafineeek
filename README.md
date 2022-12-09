@@ -25,7 +25,7 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
 TypeScript   6 hrs           ████████████████████████▓   98.55 %
 Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
