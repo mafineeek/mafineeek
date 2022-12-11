@@ -21,6 +21,8 @@ Hello, I'm **mafineeek**.
 ## 👭 You can find me on:
 - [Twitter](https://twitter.com/devmafineeek)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mafineeek)](https://git.io/streak-stats)
+
 ## 📰 What I have done this week
 <!--START_SECTION:waka-->
 
