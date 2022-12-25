@@ -27,14 +27,14 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
+From: 17 December 2022 - To: 24 December 2022
 
-TypeScript   13 hrs 52 mins  ████████████████████░░░░░   80.24 %
-EJS          1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-JavaScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript   13 hrs 7 mins   ██████████████████████░░░   88.30 %
+JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+EJS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
