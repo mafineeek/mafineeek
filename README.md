@@ -5,7 +5,7 @@ Hello, I'm **mafineeek**.
 
 [VibeRP](https://v-rp.pl) - GTA V Roleplay server brought to You by d2qube sp z.o.o - Frontend developer [EX]
 <br>
-[LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V - CEO & Fullstack developer
+[LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V built with Typescript with support of [AthenaFramework](https://github.com/Athena-Roleplay-Framework/) - CEO & Fullstack developer
 
 ![](./github-metrics.svg)
 
