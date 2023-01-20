@@ -15,13 +15,13 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 18 January 2023
+From: 12 January 2023 - To: 19 January 2023
 
-AutoHotkey   1 hr 31 mins    ████████████████░░░░░░░░░   64.42 %
-Lua          34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-XML          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+AutoHotkey   1 hr 41 mins    ████████████████▓░░░░░░░░   66.74 %
+Lua          34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+XML          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
