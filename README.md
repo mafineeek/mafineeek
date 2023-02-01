@@ -15,14 +15,14 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-TypeScript   8 hrs 12 mins   ████████████████████▒░░░░   81.57 %
-JavaScript   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-PHP          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript   7 hrs 23 mins   ████████████████████░░░░░   79.94 %
+JavaScript   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+PHP          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
