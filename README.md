@@ -15,7 +15,7 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
 JavaScript   58 mins         ███████████████▒░░░░░░░░░   61.08 %
 TypeScript   22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.51 %
