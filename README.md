@@ -14,7 +14,7 @@ Hello, I'm **mafineeek**.
 ## 📰 What I have done this week
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 TypeScript   1 hr 12 mins    ██████████████▓░░░░░░░░░░   58.63 %
