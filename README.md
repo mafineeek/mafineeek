@@ -15,7 +15,7 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
 TypeScript   6 hrs 54 mins   █████████████████████████   99.65 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
