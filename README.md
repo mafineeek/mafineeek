@@ -14,7 +14,7 @@ Hello, I'm **mafineeek**.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
 JavaScript   2 hrs 27 mins   ███████████████████████▓░   94.61 %
 JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
