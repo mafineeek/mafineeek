@@ -15,13 +15,13 @@ SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Design
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-C#               6 hrs 4 mins    ████████████████▓░░░░░░░░   66.39 %
-TypeScript       2 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.53 %
-HTML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-XML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C#               8 hrs 34 mins   █████████████████▒░░░░░░░   69.58 %
+TypeScript       3 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+HTML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+XML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
