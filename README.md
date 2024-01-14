@@ -15,13 +15,13 @@ SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Design
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-C#               5 hrs 53 mins   ████████████████░░░░░░░░░   63.97 %
-Vue.js           53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-TypeScript       52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-SQL              36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Csproj           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+C#              5 hrs 38 mins   ████████████████▓░░░░░░░░   66.32 %
+Vue.js          53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+TypeScript      52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+SQL             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Scala           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
