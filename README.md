@@ -15,7 +15,7 @@ SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Design
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
 Dart         1 hr 3 mins     ███████████▓░░░░░░░░░░░░░   46.70 %
 TypeScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
