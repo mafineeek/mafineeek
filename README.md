@@ -3,7 +3,6 @@ Hello, I'm **mafineeek**.
 
 ## 📝Projects
 
-[VibeRP](https://v-rp.pl) - GTA V Roleplay server brought to You by d2qube - Fullstack Developer<br/>
 SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Designer, Fullstack Developer
 
 
