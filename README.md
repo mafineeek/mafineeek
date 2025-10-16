@@ -14,10 +14,11 @@ SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Design
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-TypeScript   1 hr 9 mins     ████████████████████████░   96.01 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+TypeScript   3 hrs 3 mins    ████████████████████████▒   97.24 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
