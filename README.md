@@ -14,7 +14,7 @@ SpeedwayManager - The most advanced Speedway Club Manager - Founder, Game Design
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2026 - To: 14 July 2026
+From: 08 July 2026 - To: 15 July 2026
 
 TypeScript   3 hrs 57 mins         ██████████████████▒░░░░░░   73.87 %
 Markdown     1 hr 9 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
